@@ -1,0 +1,19 @@
+{
+    "name": "koste/ship-rate-pro",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "KostyaTarasov",
+            "email": "mixtmneon@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MyProject\\": "src/MyProject/"
+        }
+    },
+    "require": {
+        "erusev/parsedown": "^1.7"
+    }
+}
